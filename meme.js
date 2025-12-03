@@ -1,4 +1,4 @@
-// 名言数据 - 模拟飞行圈的名言名句
+// 名言
 const quotesData = [
   {
     text: "古顾菇~",
@@ -73,11 +73,11 @@ const quotesData = [
     author: "心瘾^"
   },
   {
-    text: "那龙局他妈的死哪去了",
+    text: "那龙局**的死哪去了",
     author: "DY承仔"
   },
   {
-    text: "他喵的，谁给我改成厕所管理员了？",
+    text: "**的，谁给我改成厕所管理员了？",
     author: "龍鳯尘白"
   },
   {
@@ -113,7 +113,7 @@ const quotesData = [
     author: "龍鳯尘白"
   },
   {
-    text: "不活跃的全部死",
+    text: "不活跃的全部*死",
     author: "荔椿🍋·Lichee"
   },
   {
